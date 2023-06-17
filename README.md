@@ -11,6 +11,7 @@ Cette liste comprend une sélection de projets dans différentes catégories pou
 ## 🌐 Interaction avec la Communauté
 - [Ulyte](lien_vers_ulyte) 📺 : Affichez les flux de votre équipe sur une seule page et personnalisez-la avec des liens et des informations supplémentaires.
 - [Lyna](https://lyna.netlify.app/) 🌐 : Créez une page regroupant tous les liens de vos réseaux sociaux pour faciliter l'accès à vos profils en ligne.
+- [TwitchChat](https://github.com/LeGitHubDeTai/TwitchChat) 💬 : Le Chat de votre chaîne dans une fenêtre déplaçable et toujours devant toutes les autres fenêtres pour ne rien manquer ! Pratique lorsque vous avez un seul écran.
 
 ## 🎮 Outils pour OBS (Open Broadcaster Software)
 - [Hugo](https://github.com/TaiStudio/Hugo) 📜 : Utilisez un prompteur sur Windows pour faciliter vos présentations lors des diffusions en direct.
