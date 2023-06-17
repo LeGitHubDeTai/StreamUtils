@@ -6,7 +6,7 @@ Cette liste comprend une sélection de projets dans différentes catégories pou
 - [Timer](https://timer-taistudio.netlify.app/) ⏱️ : Un minuteur personnalisable pour vos diffusions en direct. Choisissez la couleur, la police, la taille et le fond du minuteur.
 
 ## 🛠️ Outils de Productivité
-- [Macrogiciel](https://macrogiciel.github.io/) ⌨️ : Transformez votre clavier en un ensemble de macros pour automatiser des tâches et rendre votre espace de travail plus productif.
+- [Macrogiciel](https://macrogiciel.github.io/) ⌨️ : Transformez votre clavier en macros pour automatiser les tâches répétitives et améliorer votre productivité.
 
 ## 🌐 Interaction avec la Communauté
 - [Ulyte](lien_vers_ulyte) 📺 : Affichez les flux de votre équipe sur une seule page et personnalisez-la avec des liens et des informations supplémentaires.
